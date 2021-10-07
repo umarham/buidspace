@@ -74,5 +74,5 @@ contract Waveportal {
 
     function getTotalWaves() public view returns (uint256) {
         return totalWaves;
-    }
+    } 
 }
