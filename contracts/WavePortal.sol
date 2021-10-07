@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 
 import "hardhat/console.sol";
 
-contract WavePortal {
+contract Waveportal {
     uint256 totalWaves;
     uint256 private seed;
 
